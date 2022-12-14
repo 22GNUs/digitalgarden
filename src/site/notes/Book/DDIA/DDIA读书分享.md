@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/ddia/ddia/"}
+{"dg-publish":true,"dg-permalink":"/DDIA读书分享","permalink":"/DDIA读书分享/"}
 ---
 
 
