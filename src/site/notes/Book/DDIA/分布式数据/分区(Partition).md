@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/ddia//partition/"}
+{"dg-publish":true,"dg-permalink":"/分区","permalink":"/分区/"}
 ---
 
 
