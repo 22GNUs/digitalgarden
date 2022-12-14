@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/ddia//replication/"}
+{"dg-publish":true,"dg-permalink":"/冗余","permalink":"/冗余/"}
 ---
 
 
