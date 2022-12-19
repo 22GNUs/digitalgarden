@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg/22-gn-us-s-dg/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/dg/22-gn-us-s-dg/","tags":["MindMap","gardenEntry"]}
 ---
 
 
